@@ -8,8 +8,7 @@
 
 ## Background Subtraction
 <h1>
-  <img src="https://media.githubusercontent.com/media/celinehsieh68/Computer-Vision-and-Deep-Learning--VGG16/main/Result/Q1/find%20corners.gif" width="350" height="300"/>
-  <img src="https://media.githubusercontent.com/media/celinehsieh68/Computer-Vision-and-Deep-Learning--VGG16/main/Result/Q1/result.gif" width="450" height="300"/>
+  <img src="https://github.com/celinehsieh68/Computer-Vision-and-Deep-Learning--ResNet50/blob/main/Result/1.1.gif?raw=true" width="800" height="300"/>
 </h1>
 
 ## Optical Flow
