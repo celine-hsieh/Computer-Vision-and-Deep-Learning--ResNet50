@@ -35,7 +35,7 @@
 [Cifar10 Dataset](https://www.cs.toronto.edu/~kriz/cifar.html)
 
 <h1>
-  <img src="https://user-images.githubusercontent.com/69034494/163179597-8e220246-632c-4498-b424-0a87b7c56702.png" width="350" height="400"/>
+  <img src="https://user-images.githubusercontent.com/69034494/163179597-8e220246-632c-4498-b424-0a87b7c56702.png" width="380" height="400"/>
   <img src="https://user-images.githubusercontent.com/69034494/162569707-047a9c18-e1dd-4637-bdbe-1e32fcf2720f.png" width="420" height="400"/>
   <img src="https://user-images.githubusercontent.com/69034494/162569713-be9bcdc3-56eb-4321-886b-b9c9d0ed02f3.png" width="500" height="600"/>
   <img src="https://user-images.githubusercontent.com/69034494/162572371-c5d65086-e9ef-4818-87ef-81e356097685.png" width="850" height="300"/>
