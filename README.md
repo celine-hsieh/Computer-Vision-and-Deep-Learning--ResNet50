@@ -25,7 +25,7 @@
 
 ## PCA
 <h1>
-  <img src="https://github.com/celinehsieh68/Computer-Vision-and-Deep-Learning--ResNet50/blob/main/Result/4.1.PNG?raw=true" width="400" height="300"/>
+  <img src="https://github.com/celinehsieh68/Computer-Vision-and-Deep-Learning--ResNet50/blob/main/Result/4.1.PNG?raw=true" width="450" height="300"/>
 </h1>
 
 ## Dogs and Cats classification Using ResNet50 
