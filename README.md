@@ -19,8 +19,7 @@
 
 ## Perspective Transform
 <h1>
-  <img src="https://github.com/celinehsieh68/Computer-Vision-and-Deep-Learning--ResNet50/blob/main/Result/2.1.gif?raw=true" width="400" height="400"/>
-  <img src="https://github.com/celinehsieh68/Computer-Vision-and-Deep-Learning--ResNet50/blob/main/Result/2.2.gif?raw=true" width="400" height="400"/>
+  <img src="https://media.githubusercontent.com/media/celinehsieh68/Computer-Vision-and-Deep-Learning--ResNet50/main/Result/3.1.gif" width="820" height="400"/>
 </h1>
 
 ## PCA
