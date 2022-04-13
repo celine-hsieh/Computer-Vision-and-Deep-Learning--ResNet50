@@ -2,7 +2,9 @@
  Background Subtraction/ Optical Flow/ Perspective Transform/ PCA/ Dogs and Cats classification Using ResNet50 
  
 ## UI 
-![image](https://user-images.githubusercontent.com/69034494/163121080-2fe37dd3-2bb6-4eb1-a2ff-6b8b1fed2e82.png)
+<h1>
+  <img src="https://user-images.githubusercontent.com/69034494/163121080-2fe37dd3-2bb6-4eb1-a2ff-6b8b1fed2e82.png" width="350" height="400"/>
+</h1>
 
 ## Background Subtraction
 <h1>
