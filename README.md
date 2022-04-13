@@ -30,10 +30,6 @@
 
 ## Dogs and Cats classification Using ResNet50 
 
-[VGG16, Paper and Source Code](https://paperswithcode.com/method/vgg)
-
-[Cifar10 Dataset](https://www.cs.toronto.edu/~kriz/cifar.html)
-
 <h1>
   <img src="https://user-images.githubusercontent.com/69034494/163179597-8e220246-632c-4498-b424-0a87b7c56702.png" width="380" height="400"/>
   <img src="https://user-images.githubusercontent.com/69034494/163180054-a64bbe4e-17f2-402d-9a05-e8ccf4e484f7.png" width="420" height="400"/>
@@ -44,10 +40,5 @@
 
 ## Reference
 
-https://matplotlib.org/stable/tutorials/index.html
-
-https://pypi.org/project/pytorch-model-summary/
-
-https://towardsdatascience.com/understanding-pytorch-with-an-example-a-step-by-step-tutorial-81fc5f8c4e8e#5017
-
-https://github.com/tony71200/Hw1_NCKU_202110
+[Deep Residual Learning for Image Recognition](https://arxiv.org/pdf/1512.03385.pdf)
+[Random Erasing Data Augmentation](https://arxiv.org/pdf/1708.04896.pdf)
