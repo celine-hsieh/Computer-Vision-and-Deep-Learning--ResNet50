@@ -25,10 +25,7 @@
 
 ## PCA
 <h1>
-  <img src="https://media.githubusercontent.com/media/celinehsieh68/Computer-Vision-and-Deep-Learning--VGG16/main/Result/Q4/key%20point.PNG" width="400" height="300"/>
-  <img src="https://media.githubusercontent.com/media/celinehsieh68/Computer-Vision-and-Deep-Learning--VGG16/main/Result/Q4/key%20point2.PNG" width="400" height="300"/>
-  <img src="https://media.githubusercontent.com/media/celinehsieh68/Computer-Vision-and-Deep-Learning--VGG16/main/Result/Q4/match%20key%20point.PNG" width="600" height="300"/>
-  <img src="https://media.githubusercontent.com/media/celinehsieh68/Computer-Vision-and-Deep-Learning--VGG16/main/Result/Q4/wrap%20image.PNG" width="380" height="300"/>
+  <img src="https://github.com/celinehsieh68/Computer-Vision-and-Deep-Learning--ResNet50/blob/main/Result/4.1.PNG?raw=true" width="400" height="300"/>
 </h1>
 
 ## Dogs and Cats classification Using ResNet50 
