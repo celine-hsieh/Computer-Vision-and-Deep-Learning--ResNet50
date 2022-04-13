@@ -37,8 +37,8 @@
 <h1>
   <img src="https://user-images.githubusercontent.com/69034494/163179597-8e220246-632c-4498-b424-0a87b7c56702.png" width="380" height="400"/>
   <img src="https://user-images.githubusercontent.com/69034494/163180054-a64bbe4e-17f2-402d-9a05-e8ccf4e484f7.png" width="420" height="400"/>
-  <img src="https://user-images.githubusercontent.com/69034494/163180741-9c068171-c066-43e0-9b6d-4ca0993a0b11.png" width="450" height="400"/>
-  <img src="https://user-images.githubusercontent.com/69034494/163181905-23f4f43c-a1ae-48dd-80a1-b1af9cc12771.png" width="500" height="400"/>
+  <img src="https://user-images.githubusercontent.com/69034494/163180741-9c068171-c066-43e0-9b6d-4ca0993a0b11.png" width="400" height="350"/>
+  <img src="https://user-images.githubusercontent.com/69034494/163181905-23f4f43c-a1ae-48dd-80a1-b1af9cc12771.png" width="450" height="350"/>
 </h1>
 
 
