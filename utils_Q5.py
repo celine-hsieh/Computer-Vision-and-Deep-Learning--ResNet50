@@ -19,7 +19,7 @@ import transforms as T
 from torch.utils.tensorboard import SummaryWriter
 
 # %matplotlib inline
-folderDir = 'C:/Users/Hsin/Desktop/Hw2_CVDL_202112_NCKU-master/' # for local run
+folderDir = r"./" # for local run
 # folderDir = '/content/drive/MyDrive/Question5/' # for colab run with Google drive mounted.
 MODEL_PATH = folderDir+ "Code/Rest50Best_RandomErase.pth"
 LOG_PATH = folderDir+ "Code/TensorBoardLog.json"
