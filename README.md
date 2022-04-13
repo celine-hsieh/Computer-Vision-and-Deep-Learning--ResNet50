@@ -13,8 +13,8 @@
 
 ## Optical Flow
 <h1>
-  <img src="https://media.githubusercontent.com/media/celinehsieh68/Computer-Vision-and-Deep-Learning--VGG16/main/Result/Q2/word%20on%20board.gif" width="400" height="300"/>
-  <img src="https://media.githubusercontent.com/media/celinehsieh68/Computer-Vision-and-Deep-Learning--VGG16/main/Result/Q2/word%20vertical.gif" width="400" height="300"/>
+  <img src="https://github.com/celinehsieh68/Computer-Vision-and-Deep-Learning--ResNet50/blob/main/Result/2.1.gif?raw=true" width="400" height="350"/>
+  <img src="https://github.com/celinehsieh68/Computer-Vision-and-Deep-Learning--ResNet50/blob/main/Result/2.2.gif?raw=true" width="400" height="350"/>
 </h1>
 
 ## Perspective Transform
